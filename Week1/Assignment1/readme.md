@@ -1,7 +1,7 @@
 # Assignment 1
 If you dont have your github account, Sign UP :) 
 
-Open the course repository. [link of the repo](https://github.com/Shreyas-Bhat/Intro-to-ml-dl) ! You will see a fork button in the upper right corner of the webpage, clicking on that button will create a copy of the existing repo which you can edit. You will be uploading your solved assignments on that repo.
+Open the course repository. [link of the repository](https://github.com/Shreyas-Bhat/Intro-to-ml-dl) ! You will see a fork button in the upper right corner of the webpage, clicking on that button will create a copy of the existing repository which you can edit. You will be uploading your solved assignments on that repository.
 
 
 Open the assignment.ipynb in colab or [click here](https://colab.research.google.com/github/abhi-glitchhg/Intro-to-ml-dl/blob/assignment_1/Week1/Assignment1/Assignment1.ipynb) 
