@@ -1,4 +1,4 @@
-# Intro-to-ml-dl
+# Introduction to Machine Learning and Deep Learning
 
 
 | Week, Lecture Number | Open in Colab
